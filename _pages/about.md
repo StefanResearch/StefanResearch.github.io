@@ -12,8 +12,9 @@ generously funded by a [WWTF VRG grant](/vrg). My main research areas are as fol
 * **Foundations of data science:** I develop *practical data science
   algorithms with provable guarantees*. I am particularly interested in
   the beyond worst-case analysis of algorithms.
-* **Social network analysis:** I study how interventions (such as timeline
-  algorithms) influence the polarization and the disagreement in the network.
+* **Social network analysis:** I study how interventions, such as timeline
+  algorithms, influence the polarization and the disagreement in (online) social
+  networks.
 
 Previously, I was a [WASP](https://wasp-sweden.org) assistant professor at 
 [KTH Royal Institute of Technology](https://www.kth.se)
