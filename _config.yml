@@ -12,7 +12,7 @@ title                    : "Stefan Neumann"
 title_separator          : "-"
 name                     : &name "Stefan Neumann"
 description              : &description "personal description"
-url                      : https://StefanResearch.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://neumannstefan.com # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "StefanResearch/StefanResearch.github.io"
 
