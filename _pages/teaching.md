@@ -6,8 +6,7 @@ redirect_from:
   - /teaching.html
 ---
 
-**Thesis supervision**
-If you want to write your BSc or MSc thesis with me, please contact me by email.
+**Thesis supervision:** If you are interested in writing your BSc or MSc thesis with me, please contact me by email.
 
 **Winter 2024**
 - **[Scientific Research and Writing](https://ml-tuw.github.io/teaching/sose24/seminar_bsc.html)**<br>
