@@ -1,7 +1,7 @@
 ---
 permalink: /vrg/
 title: "WWTF Vienna Research Group"
-author_profile: true
+author_profile: false
 redirect_from: 
 ---
 
@@ -21,16 +21,15 @@ This project aims to understand the impact of recommender systems in social netw
 # Group Members
 - Stefan Neumann, PI
 - Sebastian Lüderssen, Ph.D. student
+* Peter Blohm, student assistant
+* Florian Chen, student assistant
 
 # Project Partners
 - [Thomas Gärtner](https://thomasgaertner.org), Proponent
 
 # Publications
-- Stefan Neumann, Yinhao Dong, and Pan Peng. *Sublinear-Time Opinion Estimation in the Friedkin–Johnsen Model*.
-	In: ACM Web Conference (WebConf, formerly WWW). To appear. 2024.
-- Tianyi Zhou, Stefan Neumann, Kiran Garimella, and Aristides Gionis. *Modeling
-	the Impact of Timeline Algorithms on Opinion Dynamics Using Low-rank Updates*.
-	In: ACM Web Conference (WebConf, formerly WWW). To appear. 2024.
+- Stefan Neumann, Yinhao Dong, Pan Peng: Sublinear-Time Opinion Estimation in the Friedkin-Johnsen Model. WWW 2024: 2563-2571.
+- Tianyi Zhou, Stefan Neumann, Kiran Garimella, Aristides Gionis: Modeling the Impact of Timeline Algorithms on Opinion Dynamics Using Low-rank Updates. WWW 2024: 2694-2702. Oral presentation.
 	
 
 ![WWTF Logo]({{site.baseurl}}/images/WWTF_Text_E_CMYK.jpg)

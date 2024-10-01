@@ -24,9 +24,10 @@ author:
   avatar           : "1000px_NEUM (Photographer Fredrik Persson).jpg"
   name             : "Stefan Neumann"
   pronouns         : # example: "she/her"  
-  bio              : "Assistant Professor"
-  location         : #"Earth"
-  employer         : "TU Wien"
+  bio              : "Assistant Professor TU Wien"
+  location         : "Erzherzog-Johann-Platz 1<br>Room FB0201 (second
+  floor)<br>1040 Wien"
+  employer         : # "TU Wien"
   uri              : # URL
   email            : "stefan.neumann@tuwien.ac.at" 
 
