@@ -6,11 +6,12 @@ redirect_from:
 ---
 
 Our group is to regularly host talks and workshops with great international
-researchers. Below is a list of past and upcoming talks:
+researchers. Below is a list of past and upcoming talks.
 
 ### Upcoming
-- January 31, 2025: [Talk by Kiran Garimella on Misinformation on WhatsApp](/talk-kiran/)
+- February 14, 2025: [Talk by Meher Chaitanya (ETH Zurich) on Adjacency Search Embeddings](/talk-meher/)
 
 ### Past
+- January 31, 2025: [Talk by Kiran Garimella (Rutgers) on Misinformation on WhatsApp](/talk-kiran/)
 - October 16, 2024: [Mini-Workshop on Differential Privacy and Algorithms](/miniworkshop-algo-and-dp/)
 
