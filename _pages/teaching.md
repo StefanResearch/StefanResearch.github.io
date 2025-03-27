@@ -20,7 +20,10 @@ efficiently?
 Every semester I am also engaged in the Bachelor seminar **[Scientific Research and Writing](https://ml-tuw.github.io/teaching/)**.  I am supervising the topics on *Beyond Worst-Case Analysis* and *The Theory of Opinion Formation in Social Networks*.
 
 **Thesis supervision:** If you are interested in writing your BSc or MSc thesis
-with me, please check the topics I uploaded on TISS and contact me by email.
+with me, please first read the [instructions on how to work with me on a
+thesis](/thesis-work). If those work for you, please check the topics I uploaded
+on TISS and contact me by email.
+
 
 ## Previous Teaching
 
