@@ -33,9 +33,6 @@ from the Austrian federal government.
 You can find more information including my publications in my
 [**CV**]({{site.baseurl}}/files/CV_stefan.pdf).
 
-**I am currently hiring for a Ph.D. student in social network analysis,
-	algorithms and fair machine learning: [See the call.](/hiring/)**
-
 Research Group
 ======
 I am most happy to be working with the following bright students:
@@ -44,6 +41,7 @@ I am most happy to be working with the following bright students:
 * [Peter Blohm](https://scholar.google.com/citations?user=pJPpDsoAAAAJ) (student assistant)
 * [Florian Chen](https://florianchen.com) (student assistant)
 * Marton Karolyi (student assistant)
+* Anna Stonek (student assistant)
 
 If you are interested in working with me, please get in touch.
 
