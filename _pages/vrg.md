@@ -23,6 +23,7 @@ This project aims to understand the impact of recommender systems in social netw
 - Sebastian Lüderssen, Ph.D. student
 * Peter Blohm, student assistant
 * Florian Chen, student assistant
+* Anna Stonek, student assistant
 
 # Project Partners
 - [Thomas Gärtner](https://thomasgaertner.org), Proponent

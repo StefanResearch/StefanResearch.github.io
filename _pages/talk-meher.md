@@ -8,7 +8,7 @@ redirect_from:
 
 On **February 14, 2025, 13:30-14:30**, we are happy to host a talk by
 [Meher Chaitanya](https://scholar.google.com/citations?user=kWZtPBAAAAAJ&hl=en)
-adjacency search embeddings.
+on adjacency search embeddings.
 The talk will take place in **Erzherzog-Johann-Platz 1, 1040 Wien, in 
 Seminarraum FB 02 10 (second floor)**. You are most welcome to join us.
 

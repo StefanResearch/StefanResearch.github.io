@@ -9,6 +9,8 @@ Our group is to regularly host talks and workshops with great international
 researchers. Below is a list of past and upcoming talks.
 
 ### Upcoming
+- May 21, 2025: [Talk by Ashwin Singh on Queer In AI: A Case Study in Community-Led Participatory AI](/talk-ashwin/)
+
 In the summer, we will have [Ioana Bercea](https://ioanabercea.github.io/webpage/)
 from KTH visiting. Stay tuned.
 
