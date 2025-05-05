@@ -1,6 +1,6 @@
 ---
 permalink: /talk-ashwin/
-title: "Talk by Ashwin Singh on Queer In AI: A Case Study in Community-Led Participatory AI"
+title: "Talk by Ashwin Singh (UPF) on 'Queer In AI: A Case Study in Community-Led Participatory AI'"
 author_profile: false
 redirect_from: 
 ---
@@ -14,7 +14,7 @@ Seminarraum FB 02 10 (second floor)**. You are most welcome to join us.
 
 **Title:** Queer In AI: A Case Study in Community-Led Participatory AI
 
-**Speaker:** [Ashwin Singh](https://ashwin-19.github.io/), ETH Zurich
+**Speaker:** [Ashwin Singh](https://ashwin-19.github.io/), Universitat Pompeu Fabra
 
 **Abstract:** AI systems have violated the core tenets of queerness by classifying and controlling queer identities, subjecting queer people to harms ranging from privacy violations and censorship to discrimination and incarceration. In response, the queer community in AI has organized through [Queer In AI](http://queerinai.com/) to build a more inclusive, just and equitable AI future. In this talk, I will critically examine the role of participatory design and intersectionality in shaping Queer In AI's programs, and their impact on the representation and inclusion of queer people in the broader scientific community. I will then discuss how community-led spaces like Queer In AI uniquely empower their members to not only conduct research that strengthens audit mechanisms concerning AI harms but also challenge existing power dynamics between affected communities and the creators of AI systems. Finally, drawing from Queer In AI's eight-year history, I will outline the lessons, opportunities and challenges of grassroots organizing and community-led participation within AI, with a focus on historically underrepresented and marginalized groups.
 
