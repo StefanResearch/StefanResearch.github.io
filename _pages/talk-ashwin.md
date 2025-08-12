@@ -1,6 +1,6 @@
 ---
 permalink: /talk-ashwin/
-title: "Talk by Ashwin Singh (UPF) on 'Queer In AI: A Case Study in Community-Led Participatory AI'"
+title: "Talk by Ashwin Singh (UPF) on Queer In AI: A Case Study in Community-Led Participatory AI"
 author_profile: false
 redirect_from: 
 ---
