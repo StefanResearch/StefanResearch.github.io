@@ -5,7 +5,7 @@ author_profile: false
 redirect_from: 
 ---
 
-On **August 25, 2025, 11:00-12:00**, we are happy to host a talk by
+On **August 25, 2025, 13:00-14:00**, we are happy to host a talk by
 [Ioana Bercea](https://ioanabercea.github.io/webpage/) on Locally Uniform Hashing.
 The talk will take place in **Erzherzog-Johann-Platz 1, 1040 Wien, in 
 Seminarraum FB 02 10 (second floor)**. You are most welcome to join us.
