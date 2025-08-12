@@ -11,9 +11,6 @@ researchers. Below is a list of past and upcoming talks.
 ### Upcoming
 - August 12, 2025: [Talk by Ioana Bercea (KTH) on Locally Uniform Hashing](/talk-ioana/)
 
-In the summer, we will have [Ioana Bercea](https://ioanabercea.github.io/webpage/)
-from KTH visiting. Stay tuned.
-
 ### Past
 - May 21, 2025: [Talk by Ashwin Singh (UPF) on Queer In AI: A Case Study in Community-Led Participatory AI](/talk-ashwin/)
 - February 14, 2025: [Talk by Meher Chaitanya (ETH Zurich) on Adjacency Search Embeddings](/talk-meher/)
