@@ -38,10 +38,15 @@ Research Group
 I am most happy to be working with the following bright students:
 * [Sebastian Lüderssen](https://informatics.tuwien.ac.at/people/sebastian-luederssen)
 (PhD student since 2024)
-* [Peter Blohm](https://scholar.google.com/citations?user=pJPpDsoAAAAJ) (student assistant)
-* [Florian Chen](https://florianchen.com) (student assistant)
-* Marton Karolyi (student assistant)
-* Anna Stonek (student assistant)
+* [Ashwin S](https://rashomonset.github.io) (PhD student since 2025)
+
+Previous group members:
+[Florian Chen](https://florianchen.com) 
+	(student assistant &rarr; MSc at Oxford),
+[Peter Blohm](https://scholar.google.com/citations?user=pJPpDsoAAAAJ) 
+	(student assistant &rarr; Aalto &rarr; PhD at TU Wien),
+Marton Karolyi (student assistant),
+Anna Stonek (student assistant)
 
 If you are interested in working with me, please get in touch.
 
