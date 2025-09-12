@@ -18,9 +18,10 @@ This project aims to understand the impact of recommender systems in social netw
 - Duration: 2024 - 2031
 - Funding: 1.475.074€
 
-# Group Members
+# Current and Former Group Members
 - Stefan Neumann, PI
 - Sebastian Lüderssen, Ph.D. student
+- Ashwin S, Ph.D. student
 * Peter Blohm, student assistant
 * Florian Chen, student assistant
 * Anna Stonek, student assistant
@@ -29,6 +30,8 @@ This project aims to understand the impact of recommender systems in social netw
 - [Thomas Gärtner](https://thomasgaertner.org), Proponent
 
 # Publications
+- Sijing Tu, Aleksa Stankovic, Stefan Neumann, Aristides Gionis: Optirefine: densest subgraphs and maximum cuts with k refinements. Data Min Knowl Disc 39, 82 (2025).
+- Charlotte Out, Sijing Tu, Stefan Neumann, Ahad N. Zehmakan: The Impact of External Sources on the Friedkin-Johnsen Model. CIKM 2024: 1815-1824
 - Stefan Neumann, Yinhao Dong, Pan Peng: Sublinear-Time Opinion Estimation in the Friedkin-Johnsen Model. WWW 2024: 2563-2571.
 - Tianyi Zhou, Stefan Neumann, Kiran Garimella, Aristides Gionis: Modeling the Impact of Timeline Algorithms on Opinion Dynamics Using Low-rank Updates. WWW 2024: 2694-2702. Oral presentation.
 	
