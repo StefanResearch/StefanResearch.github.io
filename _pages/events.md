@@ -10,7 +10,7 @@ researchers. Below is a list of past and upcoming talks.
 
 ### Upcoming
 
-Stay tuned for more talks.
+- October 2, 2025: [Talk by Tony Wirth (University of Sydney) on Coverage Problems in Streams](/talk-tony/)
 
 ### Past
 - August 12, 2025: [Talk by Ioana Bercea (KTH) on Locally Uniform Hashing](/talk-ioana/)
