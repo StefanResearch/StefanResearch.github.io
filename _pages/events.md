@@ -10,9 +10,10 @@ researchers. Below is a list of past and upcoming talks.
 
 ### Upcoming
 
-- October 2, 2025: [Talk by Tony Wirth (University of Sydney) on Coverage Problems in Streams](/talk-tony/)
+Stay tuned for upcoming talks.
 
 ### Past
+- October 2, 2025: [Talk by Tony Wirth (University of Sydney) on Coverage Problems in Streams](/talk-tony/)
 - August 12, 2025: [Talk by Ioana Bercea (KTH) on Locally Uniform Hashing](/talk-ioana/)
 - May 21, 2025: [Talk by Ashwin Singh (UPF) on Queer In AI: A Case Study in Community-Led Participatory AI](/talk-ashwin/)
 - February 14, 2025: [Talk by Meher Chaitanya (ETH Zurich) on Adjacency Search Embeddings](/talk-meher/)
