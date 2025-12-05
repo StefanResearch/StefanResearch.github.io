@@ -21,8 +21,8 @@ Every semester I am also engaged in the Bachelor seminar **[Scientific Research 
 
 **Thesis supervision:** If you are interested in writing your BSc or MSc thesis
 with me, please first read the [instructions on how to work with me on a
-thesis](/thesis-work). If those work for you, please check the topics I uploaded
-on TISS and contact me by email.
+thesis](/thesis-work). If those work for you, please send me an email with your
+transcripts and a short text about your research interests.
 
 
 ## Previous Teaching
