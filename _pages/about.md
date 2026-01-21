@@ -13,7 +13,7 @@ generously funded by a [WWTF VRG grant](/vrg), and associate faculty at the
 * **Foundations of data science:** I develop *practical data science
   algorithms with provable guarantees*. I am particularly interested in
   scalable algorithms that exploit properties of real-world data.
-* **Social network analysis:** I study how interventions, such as timeline
+* **Social-network analysis:** I study how interventions, such as timeline
   algorithms, influence the polarization and the disagreement in (online) social
   networks.
 
@@ -30,8 +30,7 @@ My Ph.D. thesis won the [Heinz Zemanek Award](https://www.ocg.at/hzp) from the
 [Award of Excellence](https://www.bmbwf.gv.at/Ministerium/staatspreise-auszeichnungen/Staatspreise.html)
 from the Austrian federal government.
 
-You can find more information including my publications in my
-[**CV**]({{site.baseurl}}/files/CV_stefan.pdf).
+You can find more information in my [**CV**]({{site.baseurl}}/files/CV_stefan.pdf).
 
 Research Group
 ======
