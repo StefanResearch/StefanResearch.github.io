@@ -44,6 +44,8 @@ Processing Systems (**NeurIPS**). **Oral presentation** (Top 77 submissions out 
 1. Tianyi Zhou, Stefan Neumann, Kiran Garimella, and Aristides Gionis.
 “Calibrated and Diverse News Coverage”. In: International Conference on
 Information and Knowledge Management (**CIKM**). 2025, pp. 4509–4518.
+1. Sijing Tu, Aleksa Stankovic, Stefan Neumann, Aristides Gionis:
+“Optirefine: densest subgraphs and maximum cuts with k refinements”. In: Data Min. Knowl. Discov. 39(6): 82 (2025)
 1. Stefan Neumann, Yinhao Dong, and Pan Peng. “Sublinear-Time Opinion Estimation
 in the Friedkin-Johnsen Model”. In: ACM Web Conference 2024 (**WebConf**, formerly WWW). 2024, pp. 2563–2571.
 1. Tianyi Zhou, Stefan Neumann, Kiran Garimella, and Aristides Gionis. “Modeling
