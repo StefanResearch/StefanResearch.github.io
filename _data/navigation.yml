@@ -3,17 +3,20 @@ main:
   - title: "About"
     url: /
 
-  - title: "WWTF VRG"
-    url: /vrg/
+  - title: "Publications"
+    url: /publications/
+
+  - title: "CV"
+    url: /files/CV_stefan.pdf
 
   - title: "Teaching"
     url: /teaching/    
 
   - title: "Events"
     url: /events/
-
-#  - title: "Publications"
-#    url: /publications/
+    
+  - title: "WWTF VRG"
+    url: /vrg/
 #
 #  - title: "Talks"
 #    url: /talks/    
@@ -23,9 +26,6 @@ main:
 #        
 #  - title: "Blog Posts"
 #    url: /year-archive/
-#    
-#  - title: "CV"
-#    url: /cv/
 #    
 #  - title: "Guide"
 #    url: /markdown/
