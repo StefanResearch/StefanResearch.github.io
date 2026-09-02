@@ -8,11 +8,7 @@ redirect_from:
 Our group regularly hosts talks and workshops with great international
 researchers. Below is a list of past and upcoming talks.
 
-### Upcoming
-
-Stay tuned for upcoming talks.
-
-### Past
+- September 9, 2026: [Workshop on Graph Algorithms](/workshop-graph/)
 - October 2, 2025: [Talk by Tony Wirth (University of Sydney) on Coverage Problems in Streams](/talk-tony/)
 - August 12, 2025: [Talk by Ioana Bercea (KTH) on Locally Uniform Hashing](/talk-ioana/)
 - May 21, 2025: [Talk by Ashwin Singh (UPF) on Queer In AI: A Case Study in Community-Led Participatory AI](/talk-ashwin/)
