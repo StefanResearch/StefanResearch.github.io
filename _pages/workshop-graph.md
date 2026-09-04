@@ -5,23 +5,25 @@ author_profile: false
 redirect_from: 
 ---
 
-We are most happy to host a workshop on
-graph algorithms.
+We are most happy to host a workshop on graph algorithms.
 
 **Date and time:** September 9, 2026, 9:00-17:00
 
 **Location:** Karlsplatz 13, 1040 Wien, in Lecture Hall 14A (Günther
 		Feuerstein). See [Google Maps](https://maps.app.goo.gl/bU5QjzteGTUZZjXd8)
-			for instructions how to get there and [here](../files/getting-to-lecture-hall-14a.pdf) for instructions how
-			to find the room.
+		for instructions how to get there and
+		[here](../files/getting-to-lecture-hall-14a.pdf) for instructions how
+		to find the room.
 
 **Program committee:** Sebastian Forster (Uni Salzburg),
 	Gramoz Goranci (Uni Wien), Stefan Neumann (TU Wien)
 
 **Local organizer:** Stefan Neumann (TU Wien)
 
-Attendance is free but please register by sending me a mail to Stefan Neumann.
+Attendance is free but please register by sending a mail to Stefan Neumann.
 If you have any questions, please also send a mail to Stefan Neumann.
+
+The workshop has received sponsoring from ISTA.
 
 ## Program
 
