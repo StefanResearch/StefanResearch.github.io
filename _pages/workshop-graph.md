@@ -5,7 +5,7 @@ author_profile: false
 redirect_from: 
 ---
 
-We are most happy to host a workshop on graph algorithms.
+We are happy to host a workshop on graph algorithms at [TU Wien](https://tuwien.at).
 
 **Date and time:** September 9, 2026, 9:00-17:00
 
@@ -23,7 +23,11 @@ We are most happy to host a workshop on graph algorithms.
 Attendance is free but please register by sending a mail to Stefan Neumann.
 If you have any questions, please also send a mail to Stefan Neumann.
 
-The workshop has received sponsoring from ISTA.
+The workshop has received sponsoring from [ISTA](https://ista.ac.at).
+
+<img src="../files/TUW.png" alt="TU Wien Logo" height="80">
+<img src="../files/ISTA.jpg" alt="ISTA Logo" height="80">
+
 
 ## Program
 
