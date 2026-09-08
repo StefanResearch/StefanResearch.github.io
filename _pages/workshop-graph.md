@@ -35,7 +35,7 @@ The workshop has received sponsoring from [ISTA](https://ista.ac.at).
 | ------------- | ----------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------- |
 | 9:00 – 9:05   | Organizers                          | Welcome                                                                                                                                         |
 | 9:05 – 9:35     | Sayan Bhattacharya (Warwick)        | [Recent Advances in Dynamic Matching](#recent-advances-in-dynamic-matching)                                                                                                             |
-| 9:35 – 10:05    | Danupon Nanongkai (MPI Informatics) | TBD                                                                                                                                             |
+| 9:35 – 10:05    | Danupon Nanongkai (MPI Informatics) | [Solving Problems on Graphs We Have Seen Before](#solving-problems-on-graphs-we-have-seen-before)
 | 10:05 – 10:20   | Kathrin Hanauer (Uni Wien)          | Fully Dynamic Triangle and 4-Vertex Subgraph Counting: From Theory to Practice and Back Again                                                   |
 | 10:20 – 10:50 |                                     | **Coffee Break**                                                                                                                                |
 | 10:50 – 11:20   | Robert Tarjan (Princeton)           | [Musings on Medians](#musings-on-median)                                                                                                                              |
@@ -61,6 +61,18 @@ Below you can find more detailed information about some of the talks.
 
 **Abstract:**
 Consider a graph $G = (V, E)$ that is undergoing a sequence of edge insertions/deletions. We want to design an algorithm that maintains a large matching in this dynamic graph G with small "update time". Here, the "update time" of an algorithm refers to the time it takes to handle the insertion/deletion of an edge in $G$. Ideally, we would like to ensure that the update time of our algorithm is polylogarithmic in the number of nodes in $G$. This problem has received considerable attention within the dynamic algorithms community in the past decade. In this talk, I will present an overview of some very recent developments on this problem, which point to surprising connections between dynamic and sublinear algorithms.
+
+---
+
+### Solving Problems on Graphs We Have Seen Before {#solving-problems-on-graphs-we-have-seen-before}
+
+**Speaker:** Danupon Nanongkai, MPI Informatics
+
+**Abstract:**
+If we run a heavy-duty computation on prior data, can we avoid repeated computation for similar future inputs? Inspired by this question, we introduce a new computational model for graph problems called “algorithms with isomorphic priors”.  Solving a graph problem in this model involves two phases: (i) preprocessing phase: analyzes prior graphs $G_1,\dots,G_k$ along with the (previously computed) exact optimal values $\operatorname{OPT}(G_i)$. (ii) Query phase: Given a new graph $H$ then either (a) output the exact solution $\operatorname{OPT}(H)$, or (b) correctly reports that $H$ is not isomorphic to any $G_i$.
+
+Now, can we avoid computing $\operatorname{OPT}(H)$ from scratch when $H$ is isomorphic to some $G_i$? If so, how can we achieve this? Can we solve some NP-complete problems quickly in our new model? And what about breaking fine-grained lower bounds? We will try to answer these questions in this talk. 
+
 
 ---
 
