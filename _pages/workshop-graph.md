@@ -36,7 +36,7 @@ The workshop has received sponsoring from [ISTA](https://ista.ac.at).
 | 9:00 – 9:05   | Organizers                          | Welcome                                                                                                                                         |
 | 9:05 – 9:35     | Sayan Bhattacharya (Warwick)        | [Recent Advances in Dynamic Matching](#recent-advances-in-dynamic-matching)                                                                                                             |
 | 9:35 – 10:05    | Danupon Nanongkai (MPI Informatics) | [Solving Problems on Graphs We Have Seen Before](#solving-problems-on-graphs-we-have-seen-before)
-| 10:05 – 10:20   | Kathrin Hanauer (Uni Wien)          | Fully Dynamic Triangle and 4-Vertex Subgraph Counting: From Theory to Practice and Back Again                                                   |
+| 10:05 – 10:20   | Kathrin Hanauer (Uni Wien)          | [Fully Dynamic Triangle and 4-Vertex Subgraph Counting: From Theory to Practice and Back Again](#fully-dynamic-triangle-and-four-vertex-counting)                                                   |
 | 10:20 – 10:50 |                                     | **Coffee Break**                                                                                                                                |
 | 10:50 – 11:20   | Robert Tarjan (Princeton)           | [Musings on Medians](#musings-on-median)                                                                                                                              |
 | 11:20 – 11:50   | Harald Räcke (TU München)           | [An Improved Quality Hierarchical Congestion Approximator in Near-Linear Time](#an-improved-quality-hierarchical-congestion-approximator-in-near-linear-time)                                                                    |
@@ -73,6 +73,18 @@ If we run a heavy-duty computation on prior data, can we avoid repeated computat
 
 Now, can we avoid computing $\operatorname{OPT}(H)$ from scratch when $H$ is isomorphic to some $G_i$? If so, how can we achieve this? Can we solve some NP-complete problems quickly in our new model? And what about breaking fine-grained lower bounds? We will try to answer these questions in this talk. 
 
+
+---
+
+### Fully Dynamic Triangle and 4-Vertex Subgraph Counting: From Theory to Practice and Back Again {#fully-dynamic-triangle-and-four-vertex-counting}
+
+**Speaker:** Kathrin Hanauer, Uni Wien
+
+Counting triangles and other small subgraph patterns is a core primitive in large-scale graph analytics, with numerous applications in data management and network analysis. Modern workloads involve massive, evolving graphs, requiring dynamic algorithms that efficiently maintain subgraph counts under updates. Although specialized dynamic algorithms for patterns with up to four vertices exist, prior work is largely theoretical, leaving practitioners to rely on general-purpose methods for arbitrary subgraphs or approximate techniques.
+
+We present an in-depth study of two dynamic approaches by Eppstein et al. and Hanauer et al. for maintaining counts of triangles and all connected four-vertex subgraph patterns, both based on variants of heavy-light vertex partitioning. We introduce a set of theoretical and practical optimizations and study hybrid variants that combine complementary elements of both approaches.
+
+Our experimental evaluation on large-scale real-world and synthetic dynamic graphs demonstrates that the optimized algorithms consistently outperform the original methods as well as strong static and dynamic baselines both in total and worst-case update times, achieving speedups of up to several orders of magnitude.
 
 ---
 
