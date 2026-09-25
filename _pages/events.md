@@ -8,6 +8,7 @@ redirect_from:
 Our group regularly hosts talks and workshops with great international
 researchers. Below is a list of past and upcoming talks.
 
+- September 29, 2026: [Talk by Tony Wirth (University of Sydney) on Fair Max-Min Diversification](/talk-tony-2/)
 - September 9, 2026: [Workshop on Graph Algorithms](/workshop-graph/)
 - October 2, 2025: [Talk by Tony Wirth (University of Sydney) on Coverage Problems in Streams](/talk-tony/)
 - August 12, 2025: [Talk by Ioana Bercea (KTH) on Locally Uniform Hashing](/talk-ioana/)
